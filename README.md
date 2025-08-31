@@ -3,9 +3,8 @@
 Transform the way resumes are analyzed with **AI intelligence**, seamless **cloud storage**, and a **modern user experience**.  
 Upload, manage, and evaluate resumes in seconds—anytime, anywhere.
 
-<p align="center">
-  <img src="./assets/applyAI.png" alt="ApplyAI Logo" width="250">
-</p>
+![ApplyAI Logo](assets/applyAl.png)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-18+-61DAFB" />
