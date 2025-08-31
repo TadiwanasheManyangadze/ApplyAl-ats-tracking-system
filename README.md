@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Resume Analyzer
+# 🤖 ApplyAl
 
 Transform the way resumes are analyzed with **AI intelligence**, seamless **cloud storage**, and a **modern user experience**.  
 Upload, manage, and evaluate resumes in seconds—anytime, anywhere.
@@ -13,17 +13,6 @@ Upload, manage, and evaluate resumes in seconds—anytime, anywhere.
 
 ---
 
-## 📚 Table of Contents
-- [Tech Stack](#-tech-stack)
-- [Features](#-features)
-- [Architecture](#-architecture)
-- [Getting Started](#-getting-started)
-- [Configuration](#-configuration)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -38,6 +27,7 @@ Upload, manage, and evaluate resumes in seconds—anytime, anywhere.
 - ⚡ **[Vite](https://vite.dev/)** – Instant dev server, HMR, and Rollup-powered builds.
 - 🐻 **[Zustand](https://github.com/pmndrs/zustand)** – Tiny, performant global state management.
 
+
 ---
 
 ## 🔋 Features
@@ -51,6 +41,19 @@ Upload, manage, and evaluate resumes in seconds—anytime, anywhere.
 - ⚡ **Performance-Focused**: Vite + Zustand keep things fast and simple.
 
 ---
+## 📊 Case Study: How ApplyAI Helps Job Seekers
+
+Many applicants struggle to tailor their resumes to specific job descriptions and often get filtered out by Applicant Tracking Systems (ATS) despite having the necessary skills. ApplyAI was created to address this challenge by providing AI-powered insights that help users optimize their resumes and increase their chances of landing interviews.
+
+For example, Jane, a recent software engineering graduate, had applied to several backend developer roles but received few interview calls. Using ApplyAI, she uploaded her resume and the job description for a position she was interested in. The AI analyzed her resume against the job posting and provided an ATS score of 65 out of 100, along with actionable feedback highlighting missing skills, formatting issues, and keyword gaps.
+
+Following the recommendations from ApplyAI, Jane updated her resume by adding relevant keywords, reorganizing sections, and emphasizing key experiences. After making these improvements, her ATS score rose to 92 out of 100. Within two weeks, she received three interview invitations, demonstrating the effectiveness of applying AI-driven insights to optimize resumes.
+
+This case study illustrates how ApplyAI empowers job seekers by combining intelligent analysis with practical, actionable feedback. By using ApplyAI, applicants can better understand ATS filtering, tailor their resumes to specific roles, and improve their overall chances of success in the competitive job market.
+
+
+## NOTE
+This project was built with the guidance of **[JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)** tutorials, which provided excellent resources for modern web development practices.  
 
 
 
