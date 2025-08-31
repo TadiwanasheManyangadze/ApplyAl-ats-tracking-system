@@ -58,6 +58,7 @@ const WipeApp = () => {
                 </button>
             </div>
         </div>
+
     );
 };
 
