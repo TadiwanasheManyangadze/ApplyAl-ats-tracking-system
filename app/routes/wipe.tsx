@@ -63,3 +63,4 @@ const WipeApp = () => {
 };
 
 export default WipeApp;
+
