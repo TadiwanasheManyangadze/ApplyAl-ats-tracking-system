@@ -4,6 +4,10 @@ Transform the way resumes are analyzed with **AI intelligence**, seamless **clou
 Upload, manage, and evaluate resumes in seconds—anytime, anywhere.
 
 <p align="center">
+  <img src="./assets/applyAI.png" alt="ApplyAI Logo" width="250">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React-18+-61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-5+-3178C6" />
   <img src="https://img.shields.io/badge/Vite-5+-646CFF" />
